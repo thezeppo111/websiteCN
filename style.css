@@ -1,0 +1,61 @@
+h1 {
+    color: red;
+    font-size: 62px;
+}
+
+h2 {
+    color: saddlebrown;
+    font-size: 26;
+}
+
+h3 {
+    color: saddlebrown;
+    font-size: 22;
+}
+
+h4 {
+    color: saddlebrown;
+    font-size: 20;
+}
+
+h5 {
+    color: saddlebrown;
+    font-size: 18;
+}
+
+p {
+    color: black;
+    font-size: 16;
+}
+
+#navbar {
+    background-color: dimgrey;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color: gold;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+}
+
+.killers {
+    display: flex;
+    justify-content: center;
+}
+
+.chainsaw {
+    display: flex;
+    justify-content: center;
+}
